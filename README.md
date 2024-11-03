@@ -19,7 +19,7 @@
 ---
 
 ### 📝 Últimos proyectos
-- [Exploración de datos]([https://github.com/tu_usuario/proyecto1](https://github.com/gabycardenas1/Curso_Python)) - Análisis de base de datos de desnutrición crónica.
+- [Exploración de datos](https://github.com/gabycardenas1/Curso_Python) - Análisis de base de datos de desnutrición crónica.
 
 
 ---
