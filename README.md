@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋, Soy Gaby!</h1>
+<h1 align="center">¡Hola!, Soy Gaby!</h1>
 <h3 align="center">👨‍💻 Estudiante de Ciencias de Datos y Desarrollo de Software apasionada por inteligencia artificial, análisis y visualización de datos, machine learning, entre otros.</h3>
 
 <p align="center">
