@@ -22,7 +22,7 @@
 
 ### 📝 Últimos proyectos
 - [Exploración de datos](https://github.com/gabycardenas1/Curso_Python) - Análisis de base de datos de desnutrición crónica.
-
+- [Loop – Habit Tracker](https://github.com/gabycardenas1/Loop-Habit%20Tracker) – Aplicación de seguimiento de hábitos personales: interfaz visual moderna, reportes diarios y mensuales, generación de PDF y sistema de suscripción.
 
 ---
 
