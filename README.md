@@ -24,6 +24,24 @@
 - [Loop – Habit Tracker](https://github.com/gabycardenas1/Loop-Habit-Tracker) – Aplicación de seguimiento de hábitos personales: interfaz visual moderna, reportes diarios y mensuales, generación de PDF y sistema de suscripción.
 - [Exploración de datos](https://github.com/gabycardenas1/Curso_Python) - Análisis de base de datos de desnutrición crónica.
 
+
 ---
+
+## 🚀 Intereses como desarrolladora
+- **Ciencia de Datos:** machine learning, análisis y visualización.  
+- **Desarrollo de Software:** aplicaciones con Python, SQL y Flask.  
+- **Web3:** contratos inteligentes en Solidity, herramientas EVM y billeteras multifirma (Safe).  
+- **Seguridad:** buenas prácticas en blockchain y manejo seguro de activos.  
+
+---
+
+## 🎯 Metas en Web3
+1. Desplegar mis primeros **contratos inteligentes** en testnets como Sepolia.  
+2. Configurar y usar una **Safe Multi-Signature Wallet** para gestionar activos de forma segura.  
+3. Construir mis primeras **dApps** integrando contratos con frontends sencillos.  
+4. Compartir todo mi proceso en este perfil de GitHub como portafolio público.  
+
+---
+
 
 <p align="center">✨¡Gracias por visitar mi perfil!✨</p>
